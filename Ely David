@@ -1,0 +1,817 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://url.gratis/bGDWa" group-title="Canais | Abertos",Band HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/489
+#EXTINF:-1 tvg-logo="https://url.gratis/bGDWa" group-title="Canais | Abertos",Band HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/484
+#EXTINF:-1 tvg-logo="https://url.gratis/tyK2F" group-title="Canais | Abertos",Canal do Boi HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/29771
+#EXTINF:-1 tvg-logo="https://url.gratis/eCf4M" group-title="Canais | Abertos",Canal Rural HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/29770
+#EXTINF:-1 tvg-logo="https://url.gratis/zjuSJ" group-title="Canais | Abertos",Record BA HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/29777
+#EXTINF:-1 tvg-logo="https://url.gratis/zjuSJ" group-title="Canais | Abertos",Record Belem HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/29775
+#EXTINF:-1 tvg-logo="https://url.gratis/zjuSJ" group-title="Canais | Abertos",Record DF HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/29776
+#EXTINF:-1 tvg-logo="https://url.gratis/zjuSJ" group-title="Canais | Abertos",Record GO HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/29779
+#EXTINF:-1 tvg-logo="https://url.gratis/zjuSJ" group-title="Canais | Abertos",Record MG HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/29778
+#EXTINF:-1 tvg-logo="https://url.gratis/zjuSJ" group-title="Canais | Abertos",Record PA HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/29782
+#EXTINF:-1 tvg-logo="https://url.gratis/zjuSJ" group-title="Canais | Abertos",Record RJ HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/29780
+#EXTINF:-1 tvg-logo="https://url.gratis/zjuSJ" group-title="Canais | Abertos",Record RS HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/29781
+#EXTINF:-1 tvg-logo="https://url.gratis/zjuSJ" group-title="Canais | Abertos",Record SP HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/403
+#EXTINF:-1 tvg-logo="https://url.gratis/zjuSJ" group-title="Canais | Abertos",Record SP HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/148
+#EXTINF:-1 tvg-logo="https://url.gratis/cQ612" group-title="Canais | Abertos",Rede TV HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/136
+#EXTINF:-1 tvg-logo="https://url.gratis/KctZJ" group-title="Canais | Abertos",SBT HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1512
+#EXTINF:-1 tvg-logo="https://url.gratis/KctZJ" group-title="Canais | Abertos",SBT HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/402
+#EXTINF:-1 tvg-logo="https://url.gratis/mcNln" group-title="Canais | Abertos",TV Brasil HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/22513
+#EXTINF:-1 tvg-logo="https://url.gratis/qngiP" group-title="Canais | Abertos",TV Camara HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/22511
+#EXTINF:-1 tvg-logo="https://url.gratis/oRlIV" group-title="Canais | Abertos",TV Cultura HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/29772
+#EXTINF:-1 tvg-logo="https://url.gratis/AX70g" group-title="Canais | Abertos",TV Diario HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/4473
+#EXTINF:-1 tvg-logo="https://url.gratis/AX70g" group-title="Canais | Abertos",TV Diario HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/4472
+#EXTINF:-1 tvg-logo="https://url.gratis/00rSe" group-title="Canais | Abertos",TV Escola HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/22514
+#EXTINF:-1 tvg-logo="https://url.gratis/ThILi" group-title="Canais | Abertos",TV Justiça HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/22512
+#EXTINF:-1 tvg-logo="https://url.gratis/iKUTr" group-title="Canais | Abertos",TV Senado HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/22515
+#EXTINF:-1 tvg-logo="https://url.gratis/U3Can" group-title="Canais | Cine Sky",Cine Sky 1
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33230
+#EXTINF:-1 tvg-logo="https://url.gratis/U3Can" group-title="Canais | Cine Sky",Cine Sky 2
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33231
+#EXTINF:-1 tvg-logo="https://url.gratis/U3Can" group-title="Canais | Cine Sky",Cine Sky 3
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33232
+#EXTINF:-1 tvg-logo="https://url.gratis/U3Can" group-title="Canais | Cine Sky",Cine Sky 4
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33233
+#EXTINF:-1 tvg-logo="https://url.gratis/U3Can" group-title="Canais | Cine Sky",Cine Sky 5
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33234
+#EXTINF:-1 tvg-logo="https://url.gratis/U3Can" group-title="Canais | Cine Sky",Cine Sky 6
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33235
+#EXTINF:-1 tvg-logo="https://url.gratis/U3Can" group-title="Canais | Cine Sky",Cine Sky 7
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33236
+#EXTINF:-1 tvg-logo="https://url.gratis/1v8Jg" group-title="Canais | Documentários",Animal Planet HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1497
+#EXTINF:-1 tvg-logo="https://url.gratis/1v8Jg" group-title="Canais | Documentários",Animal Planet HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/371
+#EXTINF:-1 tvg-logo="https://url.gratis/NUbxL" group-title="Canais | Documentários",Discovery Channel HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1487
+#EXTINF:-1 tvg-logo="https://url.gratis/NUbxL" group-title="Canais | Documentários",Discovery Channel HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/337
+#EXTINF:-1 tvg-logo="https://url.gratis/6jT47" group-title="Canais | Documentários",Discovery Science HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1482
+#EXTINF:-1 tvg-logo="https://url.gratis/6jT47" group-title="Canais | Documentários",Discovery Science HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/330
+#EXTINF:-1 tvg-logo="https://url.gratis/WeKRF" group-title="Canais | Documentários",Discovery Theater HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1486
+#EXTINF:-1 tvg-logo="https://url.gratis/WeKRF" group-title="Canais | Documentários",Discovery Theater HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/329
+#EXTINF:-1 tvg-logo="https://url.gratis/a8f17" group-title="Canais | Documentários",Discovery Turbo HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1481
+#EXTINF:-1 tvg-logo="https://url.gratis/a8f17" group-title="Canais | Documentários",Discovery Turbo HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/328
+#EXTINF:-1 tvg-logo="https://url.gratis/ABH0s" group-title="Canais | Documentários",Discovery World HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1485
+#EXTINF:-1 tvg-logo="https://url.gratis/ABH0s" group-title="Canais | Documentários",Discovery World HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/326
+#EXTINF:-1 tvg-logo="https://url.gratis/bMLYB" group-title="Canais | Documentários",H2 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1465
+#EXTINF:-1 tvg-logo="https://url.gratis/bMLYB" group-title="Canais | Documentários",H2 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/233
+#EXTINF:-1 tvg-logo="https://url.gratis/s76ZX" group-title="Canais | Documentários",History Channel HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1459
+#EXTINF:-1 tvg-logo="https://url.gratis/s76ZX" group-title="Canais | Documentários",History Channel HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/95
+#EXTINF:-1 tvg-logo="https://url.gratis/BVaMb" group-title="Canais | Documentários",Investigacao Discovery HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1514
+#EXTINF:-1 tvg-logo="https://url.gratis/BVaMb" group-title="Canais | Documentários",Investigação Discovery HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/218
+#EXTINF:-1 tvg-logo="https://url.gratis/AYfpk" group-title="Canais | Documentários",Nat Geo Wild HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1450
+#EXTINF:-1 tvg-logo="https://url.gratis/AYfpk" group-title="Canais | Documentários",Nat Geo Wild HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/193
+#EXTINF:-1 tvg-logo="https://url.gratis/3YCP6" group-title="Canais | Documentários",National Geographic HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/196
+#EXTINF:-1 tvg-logo="https://url.gratis/1OSTB" group-title="Canais | Esportes",Band Sports HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1495
+#EXTINF:-1 tvg-logo="https://url.gratis/1OSTB" group-title="Canais | Esportes",Band Sports HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/360
+#EXTINF:-1 tvg-logo="https://url.gratis/7WiNK" group-title="Canais | Esportes",Combate HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1489
+#EXTINF:-1 tvg-logo="https://url.gratis/7WiNK" group-title="Canais | Esportes",Combate HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/342
+#EXTINF:-1 tvg-logo="https://url.gratis/wcXIr" group-title="Canais | Esportes",DAZN HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2716
+#EXTINF:-1 tvg-logo="https://url.gratis/4rdAd" group-title="Canais | Esportes",ESPN 1 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1477
+#EXTINF:-1 tvg-logo="https://url.gratis/4rdAd" group-title="Canais | Esportes",ESPN 1 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/309
+#EXTINF:-1 tvg-logo="https://url.gratis/4rdAd" group-title="Canais | Esportes",ESPN 2 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1476
+#EXTINF:-1 tvg-logo="https://url.gratis/4rdAd" group-title="Canais | Esportes",ESPN 2 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/314
+#EXTINF:-1 tvg-logo="https://url.gratis/7owss" group-title="Canais | Esportes",ESPN Brasil HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1475
+#EXTINF:-1 tvg-logo="https://url.gratis/7owss" group-title="Canais | Esportes",ESPN Brasil HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/313
+#EXTINF:-1 tvg-logo="https://url.gratis/rOa3N" group-title="Canais | Esportes",ESPN Extra HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/311
+#EXTINF:-1 tvg-logo="https://url.gratis/y9LL5" group-title="Canais | Esportes",Fox Sports 1 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1502
+#EXTINF:-1 tvg-logo="https://url.gratis/y9LL5" group-title="Canais | Esportes",Fox Sports 1 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/298
+#EXTINF:-1 tvg-logo="https://url.gratis/gC95m" group-title="Canais | Esportes",Fox Sports 2 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1501
+#EXTINF:-1 tvg-logo="https://url.gratis/gC95m" group-title="Canais | Esportes",Fox Sports 2 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/300
+#EXTINF:-1 tvg-logo="https://url.gratis/4tpw0" group-title="Canais | Esportes",Mais Esportes 1 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/41560
+#EXTINF:-1 tvg-logo="https://url.gratis/4tpw0" group-title="Canais | Esportes",Mais Esportes 2 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/41561
+#EXTINF:-1 tvg-logo="https://url.gratis/4tpw0" group-title="Canais | Esportes",Mais Esportes 3 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/41562
+#EXTINF:-1 tvg-logo="https://url.gratis/4tpw0" group-title="Canais | Esportes",Mais Esportes 4 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/41563
+#EXTINF:-1 tvg-logo="https://url.gratis/VXqCp" group-title="Canais | Esportes",Red Bull TV  HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33260
+#EXTINF:-1 tvg-logo="https://url.gratis/Rkqs8" group-title="Canais | Filmes e Séries",A&E HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1521
+#EXTINF:-1 tvg-logo="https://url.gratis/Rkqs8" group-title="Canais | Filmes e Séries",A&E HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/375
+#EXTINF:-1 tvg-logo="https://url.gratis/32nU5" group-title="Canais | Filmes e Séries",AMC HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1498
+#EXTINF:-1 tvg-logo="https://url.gratis/32nU5" group-title="Canais | Filmes e Séries",AMC HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/373
+#EXTINF:-1 tvg-logo="https://url.gratis/IbDHr" group-title="Canais | Filmes e Séries",AXN HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1496
+#EXTINF:-1 tvg-logo="https://url.gratis/IbDHr" group-title="Canais | Filmes e Séries",AXN HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/369
+#EXTINF:-1 tvg-logo="https://url.gratis/sZ6jp" group-title="Canais | Filmes e Séries",Canal Brasil HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/353
+#EXTINF:-1 tvg-logo="https://url.gratis/cD12t" group-title="Canais | Filmes e Séries",Cinemax HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1490
+#EXTINF:-1 tvg-logo="https://url.gratis/cD12t" group-title="Canais | Filmes e Séries",Cinemax HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/347
+#EXTINF:-1 tvg-logo="https://url.gratis/eQFIO" group-title="Canais | Filmes e Séries",Comedy Central HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1488
+#EXTINF:-1 tvg-logo="https://url.gratis/eQFIO" group-title="Canais | Filmes e Séries",Comedy Central HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/340
+#EXTINF:-1 tvg-logo="https://url.gratis/JMrs0" group-title="Canais | Filmes e Séries",Fox Channel HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1473
+#EXTINF:-1 tvg-logo="https://url.gratis/JMrs0" group-title="Canais | Filmes e Séries",Fox Channel HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/304
+#EXTINF:-1 tvg-logo="https://url.gratis/ZzNAM" group-title="Canais | Filmes e Séries",Fox Premium 1 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1505
+#EXTINF:-1 tvg-logo="https://url.gratis/ZzNAM" group-title="Canais | Filmes e Séries",Fox Premium 1 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/29767
+#EXTINF:-1 tvg-logo="https://url.gratis/z9WaU" group-title="Canais | Filmes e Séries",Fox Premium 2 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/29768
+#EXTINF:-1 tvg-logo="https://url.gratis/z9WaU" group-title="Canais | Filmes e Séries",Fox Premium 2 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/29769
+#EXTINF:-1 tvg-logo="https://url.gratis/mw6Em" group-title="Canais | Filmes e Séries",FX HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1469
+#EXTINF:-1 tvg-logo="https://url.gratis/mw6Em" group-title="Canais | Filmes e Séries",FX HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/294
+#EXTINF:-1 tvg-logo="https://url.gratis/hWGSj" group-title="Canais | Filmes e Séries",Lifetime HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1458
+#EXTINF:-1 tvg-logo="https://url.gratis/hWGSj" group-title="Canais | Filmes e Séries",Lifetime HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/216
+#EXTINF:-1 tvg-logo="https://url.gratis/JewxZ" group-title="Canais | Filmes e Séries",Megapix HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1454
+#EXTINF:-1 tvg-logo="https://url.gratis/JewxZ" group-title="Canais | Filmes e Séries",Megapix HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/204
+#EXTINF:-1 tvg-logo="https://url.gratis/Wn8v4" group-title="Canais | Filmes e Séries",Paramount Channel HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1448
+#EXTINF:-1 tvg-logo="https://url.gratis/Wn8v4" group-title="Canais | Filmes e Séries",Paramount Channel HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/181
+#EXTINF:-1 tvg-logo="https://url.gratis/65Aot" group-title="Canais | Filmes e Séries",Prime Box Brasil HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/4456
+#EXTINF:-1 tvg-logo="https://url.gratis/65Aot" group-title="Canais | Filmes e Séries",Prime Box Brasil HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/157
+#EXTINF:-1 tvg-logo="https://url.gratis/NUoEB" group-title="Canais | Filmes e Séries",Sony HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1446
+#EXTINF:-1 tvg-logo="https://url.gratis/NUoEB" group-title="Canais | Filmes e Séries",Sony HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/127
+#EXTINF:-1 tvg-logo="https://url.gratis/vhv1B" group-title="Canais | Filmes e Séries",Space HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1445
+#EXTINF:-1 tvg-logo="https://url.gratis/vhv1B" group-title="Canais | Filmes e Séries",Space HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/125
+#EXTINF:-1 tvg-logo="https://url.gratis/xdjtH" group-title="Canais | Filmes e Séries",Studio Universal HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1441
+#EXTINF:-1 tvg-logo="https://url.gratis/xdjtH" group-title="Canais | Filmes e Séries",Studio Universal HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/117
+#EXTINF:-1 tvg-logo="https://url.gratis/LQT5p" group-title="Canais | Filmes e Séries",Syfy HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1440
+#EXTINF:-1 tvg-logo="https://url.gratis/LQT5p" group-title="Canais | Filmes e Séries",Syfy HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/115
+#EXTINF:-1 tvg-logo="https://url.gratis/DMdJu" group-title="Canais | Filmes e Séries",TBS HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/113
+#EXTINF:-1 tvg-logo="https://url.gratis/mIEKL" group-title="Canais | Filmes e Séries",TCM HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/99
+#EXTINF:-1 tvg-logo="https://url.gratis/dxDD5" group-title="Canais | Filmes e Séries",TNT HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1433
+#EXTINF:-1 tvg-logo="https://url.gratis/dxDD5" group-title="Canais | Filmes e Séries",TNT HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/92
+#EXTINF:-1 tvg-logo="https://url.gratis/orZGi" group-title="Canais | Filmes e Séries",TNT Series HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1432
+#EXTINF:-1 tvg-logo="https://url.gratis/orZGi" group-title="Canais | Filmes e Séries",TNT Séries HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/90
+#EXTINF:-1 tvg-logo="https://url.gratis/GvTjm" group-title="Canais | Filmes e Séries",Universal Channel HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1431
+#EXTINF:-1 tvg-logo="https://url.gratis/GvTjm" group-title="Canais | Filmes e Séries",Universal Channel HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/67
+#EXTINF:-1 tvg-logo="https://url.gratis/LDGmE" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1430
+#EXTINF:-1 tvg-logo="https://url.gratis/LDGmE" group-title="Canais | Filmes e Séries",Warner Channel HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/61
+#EXTINF:-1 tvg-logo="https://url.gratis/9C41a" group-title="Canais | Globo",Globo Bahia HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/260
+#EXTINF:-1 tvg-logo="https://url.gratis/9C41a" group-title="Canais | Globo",Globo Bahia HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2707
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo Brasilia HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/291
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo Centro America HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2712
+#EXTINF:-1 tvg-logo="https://url.gratis/qmShX" group-title="Canais | Globo",Globo EPTV Campinas HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/289
+#EXTINF:-1 tvg-logo="https://url.gratis/qmShX" group-title="Canais | Globo",Globo EPTV Campinas HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2711
+#EXTINF:-1 tvg-logo="https://url.gratis/qmShX" group-title="Canais | Globo",Globo EPTV Ribeirão Preto HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/287
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo EPTV Ribeirão Preto HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2952
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo EPTV Sul Minas HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/4469
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo EPTV Sul Minas HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/4468
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo EPTV São Carlos HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2941
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo EPTV São Carlos HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2940
+#EXTINF:-1 tvg-logo="https://url.gratis/vwR3q" group-title="Canais | Globo",Globo Goiânia SD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/262
+#EXTINF:-1 tvg-logo="https://url.gratis/Sq6fv" group-title="Canais | Globo",Globo Inter TV Cabugi HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33244
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo Inter TV Grande Minas HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/4471
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo Inter TV Grande Minas HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/4470
+#EXTINF:-1 tvg-logo="https://url.gratis/RbcJH" group-title="Canais | Globo",Globo Manaus
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/19
+#EXTINF:-1 tvg-logo="https://url.gratis/Sq6fv" group-title="Canais | Globo",Globo Manaus HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33250
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo Minas HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/279
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo Minas HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2713
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo Nordeste HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/275
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo Nordeste HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2714
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo NSC Floripa HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2710
+#EXTINF:-1 tvg-logo="https://url.gratis/Sq6fv" group-title="Canais | Globo",Globo NSC Joinville HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33246
+#EXTINF:-1 tvg-logo="https://url.gratis/Sq6fv" group-title="Canais | Globo",Globo NSC Joinville HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33245
+#EXTINF:-1 tvg-logo="https://url.gratis/Sq6fv" group-title="Canais | Globo",Globo Portugal HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33247
+#EXTINF:-1 tvg-logo="https://url.gratis/JhMGh" group-title="Canais | Globo",Globo RBS Poa HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1467
+#EXTINF:-1 tvg-logo="https://url.gratis/JhMGh" group-title="Canais | Globo",Globo RBS Poa HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/271
+#EXTINF:-1 tvg-logo="https://url.gratis/Sq6fv" group-title="Canais | Globo",Globo RBS TV Santa Maria HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33249
+#EXTINF:-1 tvg-logo="https://url.gratis/Sq6fv" group-title="Canais | Globo",Globo RBS TV Santa Maria HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33248
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo RJ HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1504
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo RJ HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/268
+#EXTINF:-1 tvg-logo="https://url.gratis/tLOLx" group-title="Canais | Globo",Globo RPC Curitiba HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2709
+#EXTINF:-1 tvg-logo="https://url.gratis/tLOLx" group-title="Canais | Globo",Globo RPC Curitiba HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/266
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo S.J Rio Preto HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2945
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo S.J Rio Preto HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2944
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo Sergipe HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/250
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo São Paulo HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1466
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo São Paulo HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/265
+#EXTINF:-1 tvg-logo="https://url.gratis/Sq6fv" group-title="Canais | Globo",Globo TV Anhanguera Goiânia  HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33251
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV Anhanguera HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2708
+#EXTINF:-1 tvg-logo="https://url.gratis/Sq6fv" group-title="Canais | Globo",Globo TV Asa Branca HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33252
+#EXTINF:-1 tvg-logo="https://url.gratis/Sq6fv" group-title="Canais | Globo",Globo TV Clube Piaui HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33254
+#EXTINF:-1 tvg-logo="https://url.gratis/Sq6fv" group-title="Canais | Globo",Globo TV Clube Piaui HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33253
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV Diario Mogi HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2947
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV Diario Mogi HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2946
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV Fronteira HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2943
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV Fronteira HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2942
+#EXTINF:-1 tvg-logo="https://url.gratis/dPxOl" group-title="Canais | Globo",Globo TV Gazeta Alagoas HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/4467
+#EXTINF:-1 tvg-logo="https://url.gratis/dPxOl" group-title="Canais | Globo",Globo TV Gazeta HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/75
+#EXTINF:-1 tvg-logo="https://url.gratis/mTaRf" group-title="Canais | Globo",Globo Tv Gazeta Sul ES HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33185
+#EXTINF:-1 tvg-logo="https://url.gratis/mTaRf" group-title="Canais | Globo",Globo Tv Gazeta Sul ES HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33186
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV Integração HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/22505
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV Integração HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/22504
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV Liberal
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2706
+#EXTINF:-1 tvg-logo="https://url.gratis/Sq6fv" group-title="Canais | Globo",Globo TV Liberal Belem HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33256
+#EXTINF:-1 tvg-logo="https://url.gratis/Sq6fv" group-title="Canais | Globo",Globo TV Liberal Belem HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33255
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV Mirante HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2705
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV Morena HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2704
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV Santa Cruz SD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/29774
+#EXTINF:-1 tvg-logo="https://url.gratis/Sq6fv" group-title="Canais | Globo",Globo TV Tem Bauru SD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33257
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV TEM Sorocaba HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2949
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV TEM Sorocaba HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2948
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV TRIBUNA HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2954
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV TRIBUNA HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2953
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV VANGUARDA HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2951
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV VANGUARDA HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2950
+#EXTINF:-1 tvg-logo="https://url.gratis/0Ktsr" group-title="Canais | Globo",Globo TV Verdes Mares HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2703
+#EXTINF:-1 tvg-logo="https://url.gratis/D1Ph3" group-title="Canais | HBO",HBO 1 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1463
+#EXTINF:-1 tvg-logo="https://url.gratis/D1Ph3" group-title="Canais | HBO",HBO 1 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/227
+#EXTINF:-1 tvg-logo="https://url.gratis/tQIoj" group-title="Canais | HBO",HBO 2 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1460
+#EXTINF:-1 tvg-logo="https://url.gratis/tQIoj" group-title="Canais | HBO",HBO 2 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/231
+#EXTINF:-1 tvg-logo="https://url.gratis/ZapNR" group-title="Canais | HBO",HBO Family HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1464
+#EXTINF:-1 tvg-logo="https://url.gratis/ZapNR" group-title="Canais | HBO",HBO Family HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/229
+#EXTINF:-1 tvg-logo="https://url.gratis/eUNlh" group-title="Canais | HBO",HBO Mundi HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1457
+#EXTINF:-1 tvg-logo="https://url.gratis/eUNlh" group-title="Canais | HBO",HBO Mundi HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/211
+#EXTINF:-1 tvg-logo="https://url.gratis/bL1ns" group-title="Canais | HBO",HBO Plus HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1462
+#EXTINF:-1 tvg-logo="https://url.gratis/bL1ns" group-title="Canais | HBO",HBO Plus HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/226
+#EXTINF:-1 tvg-logo="https://url.gratis/SVASB" group-title="Canais | HBO",HBO Pop HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1455
+#EXTINF:-1 tvg-logo="https://url.gratis/SVASB" group-title="Canais | HBO",HBO Pop HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/207
+#EXTINF:-1 tvg-logo="https://url.gratis/WZwWE" group-title="Canais | HBO",HBO Signature HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1461
+#EXTINF:-1 tvg-logo="https://url.gratis/WZwWE" group-title="Canais | HBO",HBO Signature HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/224
+#EXTINF:-1 tvg-logo="https://url.gratis/XwaxO" group-title="Canais | HBO",HBO Xtreme HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1456
+#EXTINF:-1 tvg-logo="https://url.gratis/XwaxO" group-title="Canais | HBO",HBO Xtreme HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/209
+#EXTINF:-1 tvg-logo="https://url.gratis/ziGuw" group-title="Canais | Infantis",Baby TV SD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/367
+#EXTINF:-1 tvg-logo="https://url.gratis/DTFnE" group-title="Canais | Infantis",Boomerang HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1492
+#EXTINF:-1 tvg-logo="https://url.gratis/DTFnE" group-title="Canais | Infantis",Boomerang HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/355
+#EXTINF:-1 tvg-logo="https://url.gratis/fUI1N" group-title="Canais | Infantis",Cartoon Network HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1491
+#EXTINF:-1 tvg-logo="https://url.gratis/fUI1N" group-title="Canais | Infantis",Cartoon Network HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/349
+#EXTINF:-1 tvg-logo="https://url.gratis/nkU2O" group-title="Canais | Infantis",Discovery Kids HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1483
+#EXTINF:-1 tvg-logo="https://url.gratis/nkU2O" group-title="Canais | Infantis",Discovery Kids HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/332
+#EXTINF:-1 tvg-logo="https://url.gratis/hQ5Ld" group-title="Canais | Infantis",Disney Channel HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1480
+#EXTINF:-1 tvg-logo="https://url.gratis/hQ5Ld" group-title="Canais | Infantis",Disney Channel HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/325
+#EXTINF:-1 tvg-logo="https://url.gratis/0C9My" group-title="Canais | Infantis",Disney Júnior HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1478
+#EXTINF:-1 tvg-logo="https://url.gratis/0C9My" group-title="Canais | Infantis",Disney Júnior HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/323
+#EXTINF:-1 tvg-logo="https://url.gratis/NG64g" group-title="Canais | Infantis",Disney XD HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1517
+#EXTINF:-1 tvg-logo="https://url.gratis/NG64g" group-title="Canais | Infantis",Disney XD HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/683
+#EXTINF:-1 tvg-logo="https://url.gratis/h7haM" group-title="Canais | Infantis",Gloob HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1499
+#EXTINF:-1 tvg-logo="https://url.gratis/h7haM" group-title="Canais | Infantis",Gloob HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/686
+#EXTINF:-1 tvg-logo="https://url.gratis/QdBPy" group-title="Canais | Infantis",Gloobinho HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1515
+#EXTINF:-1 tvg-logo="https://url.gratis/QdBPy" group-title="Canais | Infantis",Gloobinho HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/237
+#EXTINF:-1 tvg-logo="https://url.gratis/cfw1p" group-title="Canais | Infantis",Nat Geo Kids HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1451
+#EXTINF:-1 tvg-logo="https://url.gratis/cfw1p" group-title="Canais | Infantis",Nat Geo Kids HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/195
+#EXTINF:-1 tvg-logo="https://url.gratis/75xJi" group-title="Canais | Infantis",Nick JR HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1503
+#EXTINF:-1 tvg-logo="https://url.gratis/75xJi" group-title="Canais | Infantis",Nick JR HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/187
+#EXTINF:-1 tvg-logo="https://url.gratis/Ls1cp" group-title="Canais | Infantis",Nickelodeon HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1449
+#EXTINF:-1 tvg-logo="https://url.gratis/Ls1cp" group-title="Canais | Infantis",Nickelodeon HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/188
+#EXTINF:-1 tvg-logo="https://url.gratis/tJg2i" group-title="Canais | Infantis",Rá Tim Bum HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/72
+#EXTINF:-1 tvg-logo="https://url.gratis/CC9eB" group-title="Canais | Infantis",Tooncast HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33263
+#EXTINF:-1 tvg-logo="https://url.gratis/CddHj" group-title="Canais | Infantis",ZooMoo HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/377
+#EXTINF:-1 tvg-logo="https://url.gratis/XEqbR" group-title="Canais | Notícias",Band News HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1494
+#EXTINF:-1 tvg-logo="https://url.gratis/XEqbR" group-title="Canais | Notícias",Band News HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/363
+#EXTINF:-1 tvg-logo="https://url.gratis/Cm50Q" group-title="Canais | Notícias",CNN Brasil HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/21417
+#EXTINF:-1 tvg-logo="https://url.gratis/Cm50Q" group-title="Canais | Notícias",CNN Brasil HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/21418
+#EXTINF:-1 tvg-logo="https://url.gratis/qW1Qa" group-title="Canais | Notícias",CNN Espanhol SD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/345
+#EXTINF:-1 tvg-logo="https://url.gratis/qW1Qa" group-title="Canais | Notícias",CNN Internacional SD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/344
+#EXTINF:-1 tvg-logo="https://url.gratis/c2Hdv" group-title="Canais | Notícias",Globo News HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1468
+#EXTINF:-1 tvg-logo="https://url.gratis/c2Hdv" group-title="Canais | Notícias",Globo News HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/277
+#EXTINF:-1 tvg-logo="https://url.gratis/DMdjV" group-title="Canais | Notícias",Record News HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1513
+#EXTINF:-1 tvg-logo="https://url.gratis/DMdjV" group-title="Canais | Notícias",Record News HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/405
+#EXTINF:-1 tvg-logo="https://url.gratis/rrAgu" group-title="Canais | Pay per View",A Fazenda HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33187
+#EXTINF:-1 tvg-logo="https://url.gratis/bnwEa" group-title="Canais | Pay per View",BBB 21 Principal HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/53469
+#EXTINF:-1 tvg-logo="https://url.gratis/bnwEa" group-title="Canais | Pay per View",BBB 21 CAM 01 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/54483
+#EXTINF:-1 tvg-logo="https://url.gratis/bnwEa" group-title="Canais | Pay per View",BBB 21 CAM 02 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/54484
+#EXTINF:-1 tvg-logo="https://url.gratis/bnwEa" group-title="Canais | Pay per View",BBB 21 CAM 03 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/54485
+#EXTINF:-1 tvg-logo="https://url.gratis/bnwEa" group-title="Canais | Pay per View",BBB 21 CAM 04 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/54486
+#EXTINF:-1 tvg-logo="https://url.gratis/bnwEa" group-title="Canais | Pay per View",BBB 21 CAM 05 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/54487
+#EXTINF:-1 tvg-logo="https://url.gratis/bnwEa" group-title="Canais | Pay per View",BBB 21 CAM 06 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/54488
+#EXTINF:-1 tvg-logo="https://url.gratis/bnwEa" group-title="Canais | Pay per View",BBB 21 CAM 07 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/54489
+#EXTINF:-1 tvg-logo="https://url.gratis/bnwEa" group-title="Canais | Pay per View",BBB 21 CAM 08 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/54490
+#EXTINF:-1 tvg-logo="https://url.gratis/bnwEa" group-title="Canais | Pay per View",BBB 21 CAM 09 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/54491
+#EXTINF:-1 tvg-logo="https://url.gratis/bnwEa" group-title="Canais | Pay per View",BBB 21 CAM 10 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/54492
+#EXTINF:-1 tvg-logo="https://url.gratis/bnwEa" group-title="Canais | Pay per View",BBB 21 CAM 11 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/54493
+#EXTINF:-1 tvg-logo="https://url.gratis/dc9Sf" group-title="Canais | Pay per View",Conmebol 1 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33267
+#EXTINF:-1 tvg-logo="https://url.gratis/dc9Sf" group-title="Canais | Pay per View",Conmebol 1 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33271
+#EXTINF:-1 tvg-logo="https://url.gratis/dc9Sf" group-title="Canais | Pay per View",Conmebol 2 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33268
+#EXTINF:-1 tvg-logo="https://url.gratis/dc9Sf" group-title="Canais | Pay per View",Conmebol 2 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33272
+#EXTINF:-1 tvg-logo="https://url.gratis/dc9Sf" group-title="Canais | Pay per View",Conmebol 3 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33269
+#EXTINF:-1 tvg-logo="https://url.gratis/dc9Sf" group-title="Canais | Pay per View",Conmebol 3 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33273
+#EXTINF:-1 tvg-logo="https://url.gratis/dc9Sf" group-title="Canais | Pay per View",Conmebol 4 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33270
+#EXTINF:-1 tvg-logo="https://url.gratis/dc9Sf" group-title="Canais | Pay per View",Conmebol 4 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33274
+#EXTINF:-1 tvg-logo="https://url.gratis/TdkTH" group-title="Canais | Premiere",Premiere Futebol Clube HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1447
+#EXTINF:-1 tvg-logo="https://url.gratis/TdkTH" group-title="Canais | Premiere",Premiere Futebol Clube HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/159
+#EXTINF:-1 tvg-logo="https://url.gratis/TdkTH" group-title="Canais | Premiere",Premiere 2 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1511
+#EXTINF:-1 tvg-logo="https://url.gratis/TdkTH" group-title="Canais | Premiere",Premiere 2 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/172
+#EXTINF:-1 tvg-logo="https://url.gratis/TdkTH" group-title="Canais | Premiere",Premiere 3 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1510
+#EXTINF:-1 tvg-logo="https://url.gratis/TdkTH" group-title="Canais | Premiere",Premiere 3 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/170
+#EXTINF:-1 tvg-logo="https://url.gratis/TdkTH" group-title="Canais | Premiere",Premiere 4 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1509
+#EXTINF:-1 tvg-logo="https://url.gratis/TdkTH" group-title="Canais | Premiere",Premiere 4 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/168
+#EXTINF:-1 tvg-logo="https://url.gratis/TdkTH" group-title="Canais | Premiere",Premiere 5 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1508
+#EXTINF:-1 tvg-logo="https://url.gratis/TdkTH" group-title="Canais | Premiere",Premiere 5 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/166
+#EXTINF:-1 tvg-logo="https://url.gratis/TdkTH" group-title="Canais | Premiere",Premiere 6 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1507
+#EXTINF:-1 tvg-logo="https://url.gratis/TdkTH" group-title="Canais | Premiere",Premiere 6 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/164
+#EXTINF:-1 tvg-logo="https://url.gratis/TdkTH" group-title="Canais | Premiere",Premiere 7 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1506
+#EXTINF:-1 tvg-logo="https://url.gratis/TdkTH" group-title="Canais | Premiere",Premiere 7 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/162
+#EXTINF:-1 tvg-logo="https://url.gratis/1RfAC" group-title="Canais | SporTV",SporTV 1 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1444
+#EXTINF:-1 tvg-logo="https://url.gratis/1RfAC" group-title="Canais | SporTV",SporTV 1 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/119
+#EXTINF:-1 tvg-logo="https://url.gratis/NNXGT" group-title="Canais | SporTV",SporTV 2 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1443
+#EXTINF:-1 tvg-logo="https://url.gratis/NNXGT" group-title="Canais | SporTV",SporTV 2 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/123
+#EXTINF:-1 tvg-logo="https://url.gratis/efR4A" group-title="Canais | SporTV",SporTV 3 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1442
+#EXTINF:-1 tvg-logo="https://url.gratis/efR4A" group-title="Canais | SporTV",SporTV 3 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/121
+#EXTINF:-1 tvg-logo="https://url.gratis/vED2n" group-title="Canais | Variedades",Arte 1 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/15
+#EXTINF:-1 tvg-logo="https://url.gratis/CxA5F" group-title="Canais | Variedades",BIS HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1493
+#EXTINF:-1 tvg-logo="https://url.gratis/CxA5F" group-title="Canais | Variedades",BIS HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/358
+#EXTINF:-1 tvg-logo="https://url.gratis/dyHyp" group-title="Canais | Variedades",Curta! SD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/338
+#EXTINF:-1 tvg-logo="https://url.gratis/qvoHz" group-title="Canais | Variedades",Discovery Home & Health HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1518
+#EXTINF:-1 tvg-logo="https://url.gratis/qvoHz" group-title="Canais | Variedades",Discovery Home & Health HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/334
+#EXTINF:-1 tvg-logo="https://url.gratis/C5rDP" group-title="Canais | Variedades",DOG TV HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33239
+#EXTINF:-1 tvg-logo="https://url.gratis/C5rDP" group-title="Canais | Variedades",DOG TV HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33238
+#EXTINF:-1 tvg-logo="https://url.gratis/JpNgG" group-title="Canais | Variedades",E! HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/318
+#EXTINF:-1 tvg-logo="https://url.gratis/KOwMw" group-title="Canais | Variedades",Fashion TV HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33241
+#EXTINF:-1 tvg-logo="https://url.gratis/KOwMw" group-title="Canais | Variedades",Fashion TV HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33240
+#EXTINF:-1 tvg-logo="https://url.gratis/oeLbI" group-title="Canais | Variedades",Film & Arts HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33242
+#EXTINF:-1 tvg-logo="https://url.gratis/oeLbI" group-title="Canais | Variedades",Film & Arts SD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33243
+#EXTINF:-1 tvg-logo="https://url.gratis/4B1O3" group-title="Canais | Variedades",Fish TV SD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/307
+#EXTINF:-1 tvg-logo="https://url.gratis/1Td6k" group-title="Canais | Variedades",Food Network HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1474
+#EXTINF:-1 tvg-logo="https://url.gratis/1Td6k" group-title="Canais | Variedades",Food Network HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/306
+#EXTINF:-1 tvg-logo="https://url.gratis/UHtjg" group-title="Canais | Variedades",Fox Life HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1472
+#EXTINF:-1 tvg-logo="https://url.gratis/UHtjg" group-title="Canais | Variedades",Fox Life HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/303
+#EXTINF:-1 tvg-logo="https://url.gratis/Eb69H" group-title="Canais | Variedades",GNT HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/235
+#EXTINF:-1 tvg-logo="https://url.gratis/a6GYv" group-title="Canais | Variedades",HGTV HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33265
+#EXTINF:-1 tvg-logo="https://url.gratis/a6GYv" group-title="Canais | Variedades",HGTV HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33266
+#EXTINF:-1 tvg-logo="https://url.gratis/LHxO0" group-title="Canais | Variedades",Mais Globosat HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/213
+#EXTINF:-1 tvg-logo="https://url.gratis/6VnMl" group-title="Canais | Variedades",MTV HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1453
+#EXTINF:-1 tvg-logo="https://url.gratis/6VnMl" group-title="Canais | Variedades",MTV HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/202
+#EXTINF:-1 tvg-logo="https://url.gratis/ZQTPe" group-title="Canais | Variedades",MTV Live HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33259
+#EXTINF:-1 tvg-logo="https://url.gratis/ZQTPe" group-title="Canais | Variedades",MTV Live HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33258
+#EXTINF:-1 tvg-logo="https://url.gratis/TV3Dn" group-title="Canais | Variedades",Multishow HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1452
+#EXTINF:-1 tvg-logo="https://url.gratis/TV3Dn" group-title="Canais | Variedades",Multishow HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/199
+#EXTINF:-1 tvg-logo="https://url.gratis/BNfjX" group-title="Canais | Variedades",OFF HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/183
+#EXTINF:-1 tvg-logo="https://url.gratis/C4Ygu" group-title="Canais | Variedades",Play TV SD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/179
+#EXTINF:-1 tvg-logo="https://url.gratis/DvH35" group-title="Canais | Variedades",Shoptime SD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/29773
+#EXTINF:-1 tvg-logo="https://url.gratis/Mx9FT" group-title="Canais | Variedades",TLC HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/94
+#EXTINF:-1 tvg-logo="https://url.gratis/DrQcl" group-title="Canais | Variedades",TV5 SD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/69
+#EXTINF:-1 tvg-logo="https://url.gratis/sJbRV" group-title="Canais | Variedades",VH1 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/65
+#EXTINF:-1 tvg-logo="https://url.gratis/sJbRV" group-title="Canais | Variedades",VH1 Mega Hits SD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/64
+#EXTINF:-1 tvg-logo="https://url.gratis/rWEF6" group-title="Canais | Variedades",Viva HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/2680
+#EXTINF:-1 tvg-logo="https://url.gratis/rWEF6" group-title="Canais | Variedades",Viva HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/10
+#EXTINF:-1 tvg-logo="https://url.gratis/pM4Q1" group-title="Canais | Variedades",WooHoo HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/59
+#EXTINF:-1 tvg-logo="https://url.gratis/3POCt" group-title="Canais | Telecine",Telecine Action HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1438
+#EXTINF:-1 tvg-logo="https://url.gratis/3POCt" group-title="Canais | Telecine",Telecine Action HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/111
+#EXTINF:-1 tvg-logo="https://url.gratis/yMXc1" group-title="Canais | Telecine",Telecine Cult HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1437
+#EXTINF:-1 tvg-logo="https://url.gratis/yMXc1" group-title="Canais | Telecine",Telecine Cult HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/109
+#EXTINF:-1 tvg-logo="https://url.gratis/4f4fo" group-title="Canais | Telecine",Telecine Fun HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1436
+#EXTINF:-1 tvg-logo="https://url.gratis/4f4fo" group-title="Canais | Telecine",Telecine Fun HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/107
+#EXTINF:-1 tvg-logo="https://url.gratis/Mag2x" group-title="Canais | Telecine",Telecine Pipoca HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1435
+#EXTINF:-1 tvg-logo="https://url.gratis/Mag2x" group-title="Canais | Telecine",Telecine Pipoca HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/105
+#EXTINF:-1 tvg-logo="https://url.gratis/dma0n" group-title="Canais | Telecine",Telecine Premium HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1434
+#EXTINF:-1 tvg-logo="https://url.gratis/dma0n" group-title="Canais | Telecine",Telecine Premium HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/103
+#EXTINF:-1 tvg-logo="https://url.gratis/Kbx9X" group-title="Canais | Telecine",Telecine Touch HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/1439
+#EXTINF:-1 tvg-logo="https://url.gratis/Kbx9X" group-title="Canais | Telecine",Telecine Touch HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/101
+#EXTINF:-1 tvg-logo="https://url.gratis/ktTsl" group-title="Canais | 24h",3 Palavrinhas
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33087
+#EXTINF:-1 tvg-logo="https://url.gratis/hWQIX" group-title="Canais | 24h",A Grande Família
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33117
+#EXTINF:-1 tvg-logo="https://url.gratis/ytT4X" group-title="Canais | 24h",Aeroporto Área Restrita
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32595
+#EXTINF:-1 tvg-logo="https://url.gratis/WJhId" group-title="Canais | 24h",As Aventuras de Jackie Chan
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32589
+#EXTINF:-1 tvg-logo="https://url.gratis/CgSqX" group-title="Canais | 24h",Beastars
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33088
+#EXTINF:-1 tvg-logo="https://url.gratis/DpsEv" group-title="Canais | 24h",Bleach
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33089
+#EXTINF:-1 tvg-logo="https://url.gratis/XS91t" group-title="Canais | 24h",Bob Esponja
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32590
+#EXTINF:-1 tvg-logo="https://url.gratis/SdXHH" group-title="Canais | 24h",Boku no Hero Academia
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33090
+#EXTINF:-1 tvg-logo="https://url.gratis/QM1iK" group-title="Canais | 24h",Boruto
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33091
+#EXTINF:-1 tvg-logo="https://url.gratis/EvMR0" group-title="Canais | 24h",Caverna do Dragão
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33092
+#EXTINF:-1 tvg-logo="https://url.gratis/8Q3CX" group-title="Canais | 24h",Chaves
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32626
+#EXTINF:-1 tvg-logo="https://url.gratis/rU8jk" group-title="Canais | 24h",Clássicos Walt Disney
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32624
+#EXTINF:-1 tvg-logo="https://url.gratis/MSI9M" group-title="Canais | 24h",Dois Homens e Meio
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33113
+#EXTINF:-1 tvg-logo="https://url.gratis/v4dsb" group-title="Canais | 24h",Dragon Ball
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33093
+#EXTINF:-1 tvg-logo="https://url.gratis/UTjta" group-title="Canais | 24h",Dragon Ball GT
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33094
+#EXTINF:-1 tvg-logo="https://url.gratis/6ZgcD" group-title="Canais | 24h",Dragon Ball Heroes
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32594
+#EXTINF:-1 tvg-logo="https://url.gratis/y6dJ6" group-title="Canais | 24h",Dragon Ball Super
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32623
+#EXTINF:-1 tvg-logo="https://url.gratis/fVwrk" group-title="Canais | 24h",Dragon Ball Z
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32622
+#EXTINF:-1 tvg-logo="https://url.gratis/c5rgv" group-title="Canais | 24h",Eu a Patroa e as Crianças
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32621
+#EXTINF:-1 tvg-logo="https://url.gratis/lcsfS" group-title="Canais | 24h",Friends
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33114
+#EXTINF:-1 tvg-logo="https://url.gratis/qnINP" group-title="Canais | 24h",Galinha Pintadinha
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32609
+#EXTINF:-1 tvg-logo="https://url.gratis/5deQi" group-title="Canais | 24h",Luluzinha
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32629
+#EXTINF:-1 tvg-logo="https://url.gratis/wiuas" group-title="Canais | 24h",Masha e o Urso
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32593
+#EXTINF:-1 tvg-logo="https://url.gratis/SZVoH" group-title="Canais | 24h",Medabots
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32608
+#EXTINF:-1 tvg-logo="https://url.gratis/0lJTd" group-title="Canais | 24h",Mickey Mouse Cartoon
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32598
+#EXTINF:-1 tvg-logo="https://url.gratis/42Av6" group-title="Canais | 24h",Mickey Mouse Clássico
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32597
+#EXTINF:-1 tvg-logo="https://url.gratis/lJn3Q" group-title="Canais | 24h",Mundo Bita
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32607
+#EXTINF:-1 tvg-logo="https://url.gratis/J9TSs" group-title="Canais | 24h",Nanatsu no Taizai
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33095
+#EXTINF:-1 tvg-logo="https://url.gratis/yGOwv" group-title="Canais | 24h",Naruto
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33096
+#EXTINF:-1 tvg-logo="https://url.gratis/UJHgw" group-title="Canais | 24h",Naruto Shippuden
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33097
+#EXTINF:-1 tvg-logo="https://url.gratis/iCT2y" group-title="Canais | 24h",O Pequeno Urso
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32630
+#EXTINF:-1 tvg-logo="https://url.gratis/ogNgc" group-title="Canais | 24h",O Show da Luna
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32606
+#EXTINF:-1 tvg-logo="https://url.gratis/Czk0k" group-title="Canais | 24h",One Punch Man
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33098
+#EXTINF:-1 tvg-logo="https://url.gratis/JGHwu" group-title="Canais | 24h",Operação Fronteira América do Sul
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32681
+#EXTINF:-1 tvg-logo="https://url.gratis/bEce4" group-title="Canais | 24h",Os Cavaleiros do Zodíaco
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33100
+#EXTINF:-1 tvg-logo="https://url.gratis/3qsXN" group-title="Canais | 24h",Os Simpsons
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32591
+#EXTINF:-1 tvg-logo="https://url.gratis/5qTbl" group-title="Canais | 24h",Papaléguas e o Coiote
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32605
+#EXTINF:-1 tvg-logo="https://url.gratis/QfKFC" group-title="Canais | 24h",Patrulha Canina
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32604
+#EXTINF:-1 tvg-logo="https://url.gratis/cjigB" group-title="Canais | 24h",Peppa Pig
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32631
+#EXTINF:-1 tvg-logo="https://url.gratis/Yey7o" group-title="Canais | 24h",Pica-Pau
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32588
+#EXTINF:-1 tvg-logo="https://url.gratis/9cqNw" group-title="Canais | 24h",Polícia 24 Horas
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32596
+#EXTINF:-1 tvg-logo="https://url.gratis/DvVYf" group-title="Canais | 24h",Rick and Morty
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33101
+#EXTINF:-1 tvg-logo="https://url.gratis/14jva" group-title="Canais | 24h",Sai de Baixo
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33115
+#EXTINF:-1 tvg-logo="https://url.gratis/2hfby" group-title="Canais | 24h",Scooby-Doo
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32603
+#EXTINF:-1 tvg-logo="https://url.gratis/KMjqt" group-title="Canais | 24h",South Park
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32602
+#EXTINF:-1 tvg-logo="https://url.gratis/4Zps7" group-title="Canais | 24h",Super Campeões J
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33102
+#EXTINF:-1 tvg-logo="https://url.gratis/O6tqw" group-title="Canais | 24h",Super Choque
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32627
+#EXTINF:-1 tvg-logo="https://url.gratis/GeS36" group-title="Canais | 24h",Timão e Pumba
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33103
+#EXTINF:-1 tvg-logo="https://url.gratis/bva5m" group-title="Canais | 24h",Todo Mundo Odeia o Chris
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32625
+#EXTINF:-1 tvg-logo="https://url.gratis/hRMag" group-title="Canais | 24h",Tokyo Ghoul
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33104
+#EXTINF:-1 tvg-logo="https://url.gratis/3gZYr" group-title="Canais | 24h",Tom e Jerry
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32600
+#EXTINF:-1 tvg-logo="https://url.gratis/NQbui" group-title="Canais | 24h",Toma Lá Dá Cá
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33116
+#EXTINF:-1 tvg-logo="https://url.gratis/QNVth" group-title="Canais | 24h",Três Espiãs Demais
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/33105
+#EXTINF:-1 tvg-logo="https://url.gratis/lwyhQ" group-title="Canais | 24h",Um Maluco no Pedaço
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32592
+#EXTINF:-1 tvg-logo="https://url.gratis/Si0vA" group-title="Canais | 24h",X-Men Evolution
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32628
+#EXTINF:-1 tvg-logo="https://url.gratis/fzyUL" group-title="Canais | 24h",Yu-Gi-Oh
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32601
+#EXTINF:-1 tvg-logo="https://url.gratis/wAlfq" group-title="Canais | Adultos",BangBros 1 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32615
+#EXTINF:-1 tvg-logo="https://url.gratis/wAlfq" group-title="Canais | Adultos",BangBros 2 HD+
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32614
+#EXTINF:-1 tvg-logo="https://url.gratis/wAlfq" group-title="Canais | Adultos",BangBros 3 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32613
+#EXTINF:-1 tvg-logo="https://url.gratis/wAlfq" group-title="Canais | Adultos",BangBros 4 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32612
+#EXTINF:-1 tvg-logo="https://url.gratis/cUXA5" group-title="Canais | Adultos",Brasileirinhas
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32618
+#EXTINF:-1 tvg-logo="https://url.gratis/HMbkw" group-title="Canais | Adultos",Hentai
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32599
+#EXTINF:-1 tvg-logo="https://url.gratis/R8N4f" group-title="Canais | Adultos",Lesbia HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/50673
+#EXTINF:-1 tvg-logo="https://url.gratis/ccGrS" group-title="Canais | Adultos",Mens 1 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32617
+#EXTINF:-1 tvg-logo="https://url.gratis/ccGrS" group-title="Canais | Adultos",Mens 2 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32616
+#EXTINF:-1 tvg-logo="https://url.gratis/fh2Ob" group-title="Canais | Adultos",Mia Khalifa
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32620
+#EXTINF:-1 tvg-logo="https://url.gratis/Vd3Lh" group-title="Canais | Adultos",Mia Linz
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32619
+#EXTINF:-1 tvg-logo="https://url.gratis/Kp2Qp" group-title="Canais | Adultos",Playboy TV HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/57
+#EXTINF:-1 tvg-logo="https://url.gratis/4gfsy" group-title="Canais | Adultos",RealityKings 1 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/50671
+#EXTINF:-1 tvg-logo="https://url.gratis/4gfsy" group-title="Canais | Adultos",RealityKings 2 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/50672
+#EXTINF:-1 tvg-logo="https://url.gratis/zRrbQ" group-title="Canais | Adultos",Sex Privê HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/257
+#EXTINF:-1 tvg-logo="https://url.gratis/FqLmv" group-title="Canais | Adultos",Sextreme HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/54
+#EXTINF:-1 tvg-logo="https://url.gratis/QS95m" group-title="Canais | Adultos",Sexy Hot HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/49
+#EXTINF:-1 tvg-logo="https://url.gratis/7hXDl" group-title="Canais | Adultos",Shemale 1 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/50674
+#EXTINF:-1 tvg-logo="https://url.gratis/7hXDl" group-title="Canais | Adultos",Shemale 2 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/50675
+#EXTINF:-1 tvg-logo="https://url.gratis/uEBiq" group-title="Canais | Adultos",Tiny4K 1 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32611
+#EXTINF:-1 tvg-logo="https://url.gratis/uEBiq" group-title="Canais | Adultos",Tiny4K 2 HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/32610
+#EXTINF:-1 tvg-logo="https://url.gratis/K3QFF" group-title="Canais | Adultos",Venus HD
+http://canaishd.servidor.tv:8080/dph5at/vpkp1u/13617
