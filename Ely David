@@ -83,3 +83,53 @@ http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/111095
 http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/94239
 #EXTINF:-1 tvg-logo="" group-title="Canais | Abertos", Rede Brasil (SP)
 http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/67325
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET FULLHD H264
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/99064
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET HD
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/40003
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FULLHD H264" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CHANNEL FULLHD H264
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/99068
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/40005
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH FULLHD H264
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/99067
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/40007
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/40009
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY THEATER HD
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/40011
+#EXTINF:-1 tvg-id="0" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY TURBO HD
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/40013
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FULLHD H264" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2010/01/12/WORLD_RGB_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORLD FULLHD H264
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/99062
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2010/01/12/WORLD_RGB_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORLD HD
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/40015
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FULLHD H264" tvg-logo="https://catracalivre.com.br/wp-content/uploads/2019/05/cientistas-desenvolvem-sistema-que-transmite-emocoes-pelo-ar.png" group-title="CANAIS: DOCUMENTARIOS",HISTORY FULLHD H264
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/99041
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="https://catracalivre.com.br/wp-content/uploads/2019/05/cientistas-desenvolvem-sistema-que-transmite-emocoes-pelo-ar.png" group-title="CANAIS: DOCUMENTARIOS",HISTORY HD
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/40017
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FULLHD H264" tvg-logo="https://skytvplanos.com.br/img/channels/lg-295-canal-h2.png" group-title="CANAIS: DOCUMENTARIOS",H2 FULLHD H264
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/99066
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-295-canal-h2.png" group-title="CANAIS: DOCUMENTARIOS",H2 HD
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/40019
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CANAIS: DOCUMENTARIOS",HGTV HD
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/40021
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="CANAIS: DOCUMENTARIOS",INVESTIGATION DISCOVERY HD
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/40023
+#EXTINF:-1 tvg-id="Lovenature.br" tvg-name="LOVE NATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="CANAIS: DOCUMENTARIOS",LOVE NATURE
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/40001
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO FULLHD H264
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/99065
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO HD
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/40025
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD FULLHD H264" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD FULLHD H264
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/99063
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD HD
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/40027
+#EXTINF:-1 tvg-id="Smithsonian.br" tvg-name="SMITHSONIAN HD" tvg-logo="https://seeklogo.com/images/S/Smithsonian_Institution-logo-6857F768FD-seeklogo.com.png" group-title="CANAIS: DOCUMENTARIOS",SMITHSONIAN HD
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/40028
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",TLC HD
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/57186
+#EXTINF:-1 tvg-id="Travelboxbrazil.br" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="CANAIS: DOCUMENTARIOS",TRAVEL BOX BRAZIL
+http://tu22.frtsaopaulo.tech:80/abdumuhammadalitmp/58nsbb/58503
